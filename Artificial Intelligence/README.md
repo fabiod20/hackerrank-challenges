@@ -1,2 +1,2 @@
-# HackerRank Challenges
-Solutions to HackerRank challenges.
+# HackerRank Artificial Intelligence
+Solutions to challenges of the Artificial Intelligence skill on HackerRank.
